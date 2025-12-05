@@ -23,12 +23,20 @@ nav a:hover{
 }
 /* Challenge 10: Change the background color to blue and the text to white for elements with an class of "banner" */
 .banner{
-  background-color: blue;
+  background-color: red;
   color:white;
+  text-align:center;
 }
 /* Challenge 11: Make the font size bigger and the color of the text to blue for elements with a class of "main" */
-.main{
-  color:blue;
-  font-size: 24pt;
+.paragraph{
+  border-radius: 2px;
+  color:black;
+  font-size: 20px;
+  text-align: center;
+  font-family: Arial;
+}
+
+.container{
+  text-align: center;
 }
 
