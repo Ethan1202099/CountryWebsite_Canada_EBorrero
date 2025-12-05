@@ -36,6 +36,11 @@ nav a:hover{
   font-family: Arial;
 }
 
+.paragraph:hover{
+  background-color: yellow;
+  font-size: 24px;
+}
+
 .container{
   text-align: center;
 }
