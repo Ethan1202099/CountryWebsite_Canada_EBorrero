@@ -44,9 +44,14 @@ nav a:hover{
 
 .container{
   text-align: center;
+  display: flex;
 }
 
-.main div{
+.container div{
   flex:1;
 }
 
+#main img{
+  max-width: 600px;
+  width: 480px;
+}
